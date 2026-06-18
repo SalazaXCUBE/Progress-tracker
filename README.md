@@ -34,9 +34,15 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 | No | Date       | Topic          | Lab Title                                   | Difficulty  | Writeup Link |
 |----|------------|----------------|---------------------------------------------|-------------|--------------|
-| 1  | 2026-00-00 |     |  |  | N/A |
-| 2  | 2026-00-00 |     |  |  | N/A |
-| 3  | 2026-00-00 |     |  |  | N/A |
-| 4  | 2026-00-00 |     |  |  | N/A |
+| 1  | 2026-00-00 | SQLI   | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | APPRENTICE | N/A |
+| 2  | 2026-00-00 | SQLI   | SQL injection vulnerability allowing login bypass | APPRENTICE | N/A |
+| 3  | 2026-00-00 | SQLI   | SQL injection attack, querying the database type and version on MySQL and Microsoft |PRACTITIONER | N/A |
+| 4  | 2026-00-00 | SQLI   | SQL injection UNION attack, determining the number of columns returned by the query| PRACTITIONER | N/A |
+| 5  | 2026-00-00 | SQLI   | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+| 5  | 2026-00-00 | SQLI   | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
+| 5  | 2026-00-00 | SQLI   | SQL injection UNION attack, retrieving multiple values in a single column | PRACTITIONER | N/A |
 | 5  | 2026-00-00 |     |  |  | N/A |
-
+| 5  | 2026-00-00 |     |  |  | N/A |
+| 5  | 2026-00-00 |     |  |  | N/A |
+| 5  | 2026-00-00 |     |  |  | N/A |
+| 5  | 2026-00-00 |     |  |  | N/A |
