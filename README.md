@@ -39,10 +39,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 3  | 2026-00-00 | SQLI   | SQL injection attack, querying the database type and version on MySQL and Microsoft |PRACTITIONER | N/A |
 | 4  | 2026-00-00 | SQLI   | SQL injection UNION attack, determining the number of columns returned by the query| PRACTITIONER | N/A |
 | 5  | 2026-00-00 | SQLI   | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
-| 5  | 2026-00-00 | SQLI   | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
-| 5  | 2026-00-00 | SQLI   | SQL injection UNION attack, retrieving multiple values in a single column | PRACTITIONER | N/A |
-| 5  | 2026-00-00 |     |  |  | N/A |
-| 5  | 2026-00-00 |     |  |  | N/A |
-| 5  | 2026-00-00 |     |  |  | N/A |
-| 5  | 2026-00-00 |     |  |  | N/A |
-| 5  | 2026-00-00 |     |  |  | N/A |
+| 6  | 2026-00-00 | SQLI   | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
+| 7  | 2026-00-00 | SQLI   | SQL injection UNION attack, retrieving multiple values in a single column | PRACTITIONER | N/A |
+| 8  | 2026-06-28 | Auth  | Username enumeration via different responses | APPRENTICE | N/A |
+| 9  | 2026-06-28 | Auth  | Username enumeration via subtly different responses | PRACTITIONER | N/A |
+| 10  | 2026-06-28 | Auth  | Username enumeration via response timing | PRACTITIONER | N/A |
+| 11  | 2026-06-28 | Auth  | Broken brute-force protection, IP block | PRACTITIONER |N/A |
+| 12  | 2026-06-28 | Auth  | Username enumeration via account lock | PRACTITIONER | N/A |
+| 13  | 2026-06-28 | Auth  | Broken brute-force protection, multiple credentials per request| EXPERT | N/A |
+| 12  | 2026-06-28 | Auth  | Username enumeration via account lock | PRACTITIONER | N/A |
+| 12  | 2026-06-28 | Auth  | Username enumeration via account lock | PRACTITIONER | N/A |
